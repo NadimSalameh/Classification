@@ -31,9 +31,6 @@ ConfusionMatrixDisplay.from_predictions(y_test, predictions, normalize=None)
 ```
 ![App Screenshot](https://github.com/NadimSalameh/Classification/blob/main/Display_Confusion_Matrix.png)
 
-## Introduction
-
- In this project, we will use Logistic Regression as a machine learning model to predict passenger survival on the Titanic.
 
 ## Step 1 : Set up your project.
 
