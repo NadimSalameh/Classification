@@ -71,7 +71,7 @@ just a dataset *Kaggle* uses to evaluate your model. You can think of this as *k
 * Use *SimpleImputer* for *Age* columns to fill null values by the mean of the column
 * Use *one-hot-encoding* for categorical columns :*Sex*, *Embarked*, *Pclass*
 
-## Step 6 : Apply Logistic Regression model
+## Step 6 : Train the model
 
 * Fit and transform train data(X_train), and transform test data
 * Apply Logistic Regression 
